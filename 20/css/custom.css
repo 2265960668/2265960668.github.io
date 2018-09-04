@@ -58,7 +58,7 @@ a.butblue:hover,
 .bbpic {
     width: 100%;
     clear: both;
-    margin: 0 auto 10px auto;
+    margin: 10px auto 15px auto;
     border-radius: 10px;
     background: #ffffff;
 }
