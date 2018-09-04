@@ -25,6 +25,8 @@
 .photo986{width:980px;clear:both;margin: auto;border-radius:10px;background: #ffffff;-moz-box-shadow:0px 5px 18px #B8B8B8; -webkit-box-shadow:0px 5px 18px #B8B8B8; box-shadow:0px 5px 18px #B8B8B8;}
 .photo986 img{width:908px;clear:both;margin: auto;padding: 25px 35px;display: block;}
 
+.butcentero a{display: block;clear: both;margin: auto;}
+
 @media screen and (min-width: 321px) and (max-width: 800px) {
     .banbg,.banbg_20 {
         min-height: 545px;
