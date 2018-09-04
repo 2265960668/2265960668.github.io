@@ -237,6 +237,11 @@ a.butblue:hover,
     margin-bottom: 20px;
 }
 
+.bordersep10 {
+    clear: both;
+    margin-bottom: 12px;
+}
+
 .imggrid img {
     display: block;
     clear: both;
