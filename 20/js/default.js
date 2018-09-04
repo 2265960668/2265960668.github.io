@@ -1,5 +1,5 @@
 $(document).ready(function () {
-	$('#banouter').parallax("50%", 0.4);
+	$('#banouter').parallax("50%", 0.6);
 	$('#ascroll').click(function () {
 		if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') && location.hostname == this.hostname) {
 			var $target = $(this.hash);
