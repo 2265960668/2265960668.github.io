@@ -79,6 +79,7 @@ a.butblue:hover,
     -moz-box-shadow: 0px 5px 20px #cccccc;
     -webkit-box-shadow: 0px 5px 20px #cccccc;
     box-shadow: 0px 5px 20px #cccccc;
+    padding:5px 0;
 }
 
 .photo986 img {
@@ -268,7 +269,7 @@ a.butblue:hover,
     width: 100%;
     clear: both;
     color: #8e8e8e;
-    padding: 38px 5px 45px 5px;
+    padding: 38px 5px 55px 5px;
 }
 
 .zyleibor {
