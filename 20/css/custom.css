@@ -54,6 +54,10 @@ a.butblue:hover,{background: #2b2373 !important;cursor: pointer;font-weight: 400
     .imgcenter2{width:360px;}
     .photo986{width:99%;}
     .photo986 img{width:96%;}
+    .textbg {
+        font-size:16px;
+        font-weight: 400;
+    }
 }
 
 @media screen and (max-width: 320px) {
