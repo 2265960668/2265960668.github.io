@@ -28,8 +28,7 @@ a.butblue:visited {
     font-weight: 400;
 }
 
-a.butblue:hover,
-    {
+a.butblue:hover {
     background: #2b2373 !important;
     cursor: pointer;
     font-weight: 400;
