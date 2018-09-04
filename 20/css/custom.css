@@ -114,6 +114,9 @@ a.butblue:hover,
         min-height: 545px;
         padding-top: 60px;
     }
+    .banbg{
+        background: #2a2368 url(../imgs/bg_m.jpg) no-repeat center center;
+    }
     .imgcenter1 {
         width: 200px;
     }
