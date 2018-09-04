@@ -37,6 +37,8 @@ a.butblue:hover,{background: #2b2373 !important;cursor: pointer;}
     }
     .imgcenter1 {width: 200px;}
     .imgcenter2{width:360px;}
+    .photo986{width:99%;}
+    .photo986 img{width:96%;}
 }
 
 @media screen and (max-width: 320px) {
