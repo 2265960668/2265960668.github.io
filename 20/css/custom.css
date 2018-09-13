@@ -362,3 +362,32 @@ a.butblue:hover {
 * {
     font-weight: 300 !important
 }
+
+
+.h20txtop{
+    background:#fcfbef;
+    border-radius: 5px;
+    color:#8c2124;
+    font-size:16px;
+    padding:12px 10px 12px 20px;
+    line-height:220%;
+    text-align: left;
+}
+
+.h20tit{
+    font-size: 22px;
+    color: #2a2368;
+    padding-top: 15px;
+    text-align: left;
+    line-height: 180%;}
+.h3mem20 {
+    font-size: 14px;
+    color: #444444;
+    padding-bottom: 10px;
+    text-align: left;
+    line-height: 220%;
+}
+
+.h3top20 {
+    padding-top: 30px;
+}
