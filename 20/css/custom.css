@@ -365,13 +365,14 @@ a.butblue:hover {
 
 
 .h20txtop{
-    background:#fcfbef;
-    border-radius: 5px;
-    color:#8c2124;
+    background:#fcfcfe;
+    border-radius: 8px;
+    color:#212750;
     font-size:16px;
     padding:12px 10px 12px 20px;
-    line-height:220%;
+    line-height:180%;
     text-align: left;
+    font-weight: 300;
 }
 
 .h20tit{
@@ -398,6 +399,8 @@ a.butblue:hover {
     color: #333333;
     text-align: center;
     line-height: 150%;
+    background: #f4f4f4;
+    border-radius: 8px;
 }
 
 .videouter video {
@@ -407,8 +410,8 @@ a.butblue:hover {
 .videouter span{
     display: block;
     clear: both;
-    margin: auto;
+    margin: 5px auto 35px auto;
     text-align: center;
     font-size: 16px;
-    padding-bottom: 35px;
+    padding-bottom: 13px;
 }
