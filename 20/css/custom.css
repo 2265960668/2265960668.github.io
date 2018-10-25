@@ -391,3 +391,23 @@ a.butblue:hover {
 .h3top20 {
     padding-top: 30px;
 }
+
+
+.videouter {
+    font-size: 16px;
+    color: #333333;
+    text-align: center;
+    line-height: 150%;
+}
+
+.videouter video {
+    width:100%;
+}
+.videouter span{
+    display: block;
+    clear: both;
+    margin: auto;
+    text-align: center;
+    font-size: 16px;
+    padding-bottom: 35px;
+}
