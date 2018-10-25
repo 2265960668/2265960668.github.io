@@ -402,6 +402,7 @@ a.butblue:hover {
 
 .videouter video {
     width:100%;
+    background: #000000;
 }
 .videouter span{
     display: block;
