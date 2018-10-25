@@ -365,11 +365,11 @@ a.butblue:hover {
 
 
 .h20txtop{
-    background:#fcfcfe;
-    border-radius: 8px;
+    /*background:#fcfcfe;
+    border-radius: 8px;*/
     color:#212750;
     font-size:16px;
-    padding:12px 10px 12px 20px;
+    padding:30px 15px 5px 15px;
     line-height:180%;
     text-align: left;
     font-weight: 300;
@@ -390,7 +390,7 @@ a.butblue:hover {
 }
 
 .h3top20 {
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 
