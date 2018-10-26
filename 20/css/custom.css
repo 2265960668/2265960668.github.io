@@ -420,6 +420,13 @@ a.butblue:hover {
     padding-bottom: 13px;
 }
 
+.videouter span u{
+    text-decoration: none;
+    font-size:14px;
+    color:#777777;
+    padding-left: 8px;
+}
+
 .spantxt{
     display: block;
     clear: both;
